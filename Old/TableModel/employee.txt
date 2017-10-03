@@ -1,0 +1,2 @@
+E001;nguyen van hoa;120,le loi,q1;Male;241
+E002;tran trung truc;130,tran phu,le lai,q2;Male;210
